@@ -1,0 +1,2 @@
+(function(){$(mw).on('EmbedPlayerUpdateDependencies',function(event,embedPlayer,dependencySet){if($(embedPlayer).attr('data-mwtitle')){$.merge(dependencySet,['mw.MediaWikiPlayerSupport']);}});}());
+mw.loader.state({"mw.MediaWikiPlayer.loader":"ready"});
