@@ -1,5 +1,5 @@
 # PC
-#*UPPLOAD* https://github.com/barionleg/PC/upload/main/compounds/i/m/
+#*UPPLOAD* https://github.com/barionleg/PC/tree/main/compounds/i/m
 
 https://github.com/barionleg/PC/tree/main/compounds/i/m/0_1_alphanumeric
 
