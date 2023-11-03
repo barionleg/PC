@@ -1,1 +1,1 @@
-# images alfanumeric begining
+# images mixed alfanumeric begining
