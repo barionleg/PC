@@ -41,7 +41,7 @@ A link to image Bohr model (of the atom) is available under "bohr_model_image" k
 
 Here's an example of how it's formatted:
 
-'{
+`{
   "elements": [
     {
       "name": "Hydrogen",
@@ -87,7 +87,7 @@ Here's an example of how it's formatted:
       "block": "s"
     }
   ]
-}'
+}`
 
 # Additional Formats
 Besides the original JSON file PeriodicTableJSON.json, the data is provided in the following additional formats:
