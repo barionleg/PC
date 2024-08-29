@@ -10,9 +10,14 @@
 
 ### универсальный язык вселенной 🌌 ჼÅ℞geniEuR  
 
-# sience 1932 in Tbilisi, Georgien 
+# sience 1932 in Tbilisi, Georgien ⛍ TIR
 
-## ебернавакированные композитОРЫ и ДвАРхитекторы вместе с журналом 🐊 Крокодил, в честь Ли КостАЯ 🧞‍♂️
+## ебернавакированные композитОРЫ и ДвАРхитекторы вместе с журналом 🐊 [Крокодил](https://ru.wikipedia.org/wiki/Крокодил_(журнал)), в честь Ли КостАЯ 🧞‍♂️
 
 ![image](https://github.com/user-attachments/assets/ce9f6502-ce91-4fea-ac03-144a3e425ca8)
+
+![image](https://github.com/user-attachments/assets/ed210e3f-a034-4d75-ac7c-f4c5f354fd6b)
+
+# с 1934 года — при газете «Правда» =  АДвÄРП
+
 
