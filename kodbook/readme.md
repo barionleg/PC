@@ -12,12 +12,19 @@
 
 # sience 1932 in Tbilisi, Georgien ⛍ TIR
 
-## ебернавакированные композитОРЫ и ДвАРхитекторы вместе с журналом 🐊 [Крокодил](https://ru.wikipedia.org/wiki/Крокодил_(журнал)), в честь Ли КостАЯ 🧞‍♂️
+## Э€вÆ₽$н²oЯRвакированные композитОРЫ и ДвАРхитекторы вместе с журналом ჼიაჼჹი 🐊 [Крокодил](https://ru.wikipedia.org/wiki/Крокодил_(журнал)), в честь Ли КостАЯ 🧞‍♂️ $µmerul/ი \/ $µmerЯRyl/ი
 
 ![image](https://github.com/user-attachments/assets/ce9f6502-ce91-4fea-ac03-144a3e425ca8)
 
 ![image](https://github.com/user-attachments/assets/ed210e3f-a034-4d75-ac7c-f4c5f354fd6b)
 
-# с 1934 года — при газете «Правда» =  АДвÄРП
+# с 1934 года — при газете «Правда» ~==~ АДвÄРП
 
+Åbsolut Annerlunda Verklighet från 💀 mitt dbЯRAkurset, initialiserad av vår eget uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 
+gp [grandparrant] då ©УЛИЯнов В. И. Лениным [МIdhehი₾] & ЙосиФ ВиссарионовიиЧ ©KPuCTAЛин 
+
+https://ru.wikipedia.org/wiki/Правда_(газета)
+
+[ÅтЭ€Ag 🔮 ГАДЗЕХО](https://ru.wikipedia.org/wiki/Правда_(газета)
+)
