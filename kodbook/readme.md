@@ -18,6 +18,16 @@
 
 ![image](https://github.com/user-attachments/assets/ed210e3f-a034-4d75-ac7c-f4c5f354fd6b)
 
+*BOHOKOg.H*
+
+## ☸ *ДшÅРgЛი && STÄЯR d'wÅRd Austereicht* дворд Ло СТЭЯR dbОРd Aus TER E ICHT 
+
+ФизикАРтуЛи Э илижек во чтО превратилось тысячилетиями собранное НЙ нии 💧 вода Аводон, или зачем гОвАрить на машинном диалектах когда 
+
+восмисотлетие освоение окосмоссА встричаем без  Rymdverket и главный челлендж предков держаться вместе собираясь в стереогруппы основываясь на генесис, чтоб вспомнить ЛоgенератОР. я и снё Д'Ж АРгон h²o gРАЖДЭния = барраге = hიдроэлектростансыЯR ...
+
+ЛоgенератОР другое; hიдроэлектростансыЯR другое;
+
 # с 1934 года — при газете «Правда» ~==~ АДвÄРП
 
 Åbsolut Annerlunda Verklighet från 💀 mitt dbЯRAkurset, initialiserad av vår eget uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
