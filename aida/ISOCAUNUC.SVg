@@ -104,19 +104,285 @@
             background-color: rgb(0, 170, 0);
         }
     </style>
-		<a xmlns="http://www.w3.org/2000/svg" href="https://github.com/barionleg/PC/wiki/AidA_created_by_i_bardavelid3e" target="_blank" transform="translate(-50,3091)">
+
+<a xmlns="http://www.w3.org/2000/svg" href="https://github.com/barionleg/PC/wiki" target="_blank" transform="translate(3432.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box blansche"/><text x="25" y="22">
+            <tspan xmlns="http://www.w3.org/2000/svg" dy="10" class="linenumber">25</tspan>
+        </text>
+        <title xmlns="http://www.w3.org/2000/svg">25</title>
+    </a>
+
+<a xmlns="http://www.w3.org/2000/svg" href="https://github.com/barionleg/PC/wiki" target="_blank" transform="translate(3382.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box blansche"/><text x="25" y="22">
+            <tspan xmlns="http://www.w3.org/2000/svg" dy="10" class="linenumber">20</tspan>
+        </text>
+        <title xmlns="http://www.w3.org/2000/svg">20</title>
+    </a>
+
+
+<a xmlns="http://www.w3.org/2000/svg" href="https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=59Ni" target="_blank" transform="translate(3232.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box ec"/><text x="25" y="22">
+            <tspan dy="-10" class="isotope">59</tspan>
+            <tspan dy="10" class="element">Ni</tspan>
+        </text>
+        <title>Nickel-59</title><text x="25" y="31" class="details">EC</text><text x="25" y="47" class="details">7.6E+4 y</text>
+    </a>
+
+
+<a xmlns="http://www.w3.org/2000/svg" href="https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=297Og" target="_blank" transform="translate(3082.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box sf"/><text x="25" y="22">
+            <tspan dy="-10" class="isotope">297</tspan>
+            <tspan dy="10" class="element">Og</tspan>
+        </text>
+        <title>Oganesson-297</title><text x="25" y="31" class="details">SF</text><text x="25" y="47" class="details"/>
+    </a>
+
+<a href="https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=142Ce" target="_blank" transform="translate(2934.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box doublebminus"></rect>
+        <rect width="46" height="46" x="2" y="2" stroke="black" stroke-width="4" fill="none"></rect><text x="25" y="22">
+            <tspan dy="-10" class="isotope">142</tspan>
+            <tspan dy="10" class="element">Ce</tspan>
+        </text>
+        <title>Cerium-142</title><text x="25" y="31" class="details">2β-</text><text x="25" y="39" class="details">11.08%</text><text x="25" y="47" class="details">&gt;5E+16 y</text>
+    </a>
+        
+
+<a href="https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=125I" target="_blank" transform="translate(2884.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box ec"></rect><text x="25" y="22">
+            <tspan dy="-10" class="isotope">125</tspan>
+            <tspan dy="10" class="element">I</tspan>
+        </text>
+        <title>Iodine-125</title><text x="25" y="31" class="details">EC</text><text x="25" y="47" class="details">59.408 d</text>
+    </a>
+
+<a href="https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=50V" target="_blank" transform="translate(2834.1000000000001,5641)">
+        <path d="M0 50 L0 0 L50 0 Z" class="box bplus"></path>
+        <path d="M0 50 L50 50 L50 0 Z" class="box bminus"></path>
+        <rect width="46" height="46" x="2" y="2" stroke="black" stroke-width="4" fill="none"></rect><text x="25" y="22">
+            <tspan dy="-10" class="isotope">50</tspan>
+            <tspan dy="10" class="element">V</tspan>
+        </text>
+        <title>Vanadium-50</title><text x="25" y="31" class="details">β+ (83%),</text><text x="25" y="39" class="details">β- (17%)</text><text x="25" y="47" class="details">1.4E+17 y</text>
+    </a>
+
+<a xmlns="http://www.w3.org/2000/svg" href="https://www.nndc.bnl.gov/nudat3/getdataset.jsp?nucleus=16O" target="_blank" transform="translate(2784.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box stable"/><text x="25" y="22">
+            <tspan dy="-10" class="isotope">16</tspan>
+            <tspan dy="10" class="element">O</tspan>
+        </text>
+        <title>Oxygen-16</title><text x="25" y="31" class="details">stable</text><text x="25" y="39" class="details">99.762%</text>
+    </a>
+
+<a href="https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=180W" target="_blank" transform="translate(2734.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box doublebplus"></rect>
+        <rect width="46" height="46" x="2" y="2" stroke="black" stroke-width="4" fill="none"></rect><text x="25" y="22">
+            <tspan dy="-10" class="isotope">180</tspan>
+            <tspan dy="10" class="element">W</tspan>
+        </text>
+        <title>Tungsten-180</title><text x="25" y="31" class="details">2β+</text><text x="25" y="39" class="details">0.13%</text><text x="25" y="47" class="details">≥ 6.6E+17 y</text>
+    </a>
+
+<a href="https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=138La" target="_blank" transform="translate(2684.1000000000001,5641)">
+        <path d="M0 50 L0 0 L50 0 Z" class="box bplus"></path>
+        <path d="M0 50 L50 50 L50 0 Z" class="box bminus"></path>
+        <rect width="46" height="46" x="2" y="2" stroke="black" stroke-width="4" fill="none"></rect><text x="25" y="22">
+            <tspan dy="-10" class="isotope">138</tspan>
+            <tspan dy="10" class="element">La</tspan>
+        </text>
+        <title>Lanthanum-138</title><text x="25" y="31" class="details">β+ (65.6%),</text><text x="25" y="39" class="details">β- (34.4%)</text><text x="25" y="47" class="details">1.05E+11 y</text>
+    </a>
+
+<a href="https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=133Ba" target="_blank" transform="translate(2634.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box ec"></rect><text x="25" y="22">
+            <tspan dy="-10" class="isotope">133</tspan>
+            <tspan dy="10" class="element">Ba</tspan>
+        </text>
+        <title>Barium-133</title><text x="25" y="31" class="details">EC</text><text x="25" y="47" class="details">10.51 y</text>
+    </a>
+
+<a href="https://www.nndc.bnl.gov/nudat3/getdataset.jsp?nucleus=140Ce" target="_blank" transform="translate(2484.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box stable"></rect><text x="25" y="22">
+            <tspan dy="-10" class="isotope">140</tspan>
+            <tspan dy="10" class="element">Ce</tspan>
+        </text>
+        <title>Cerium-140</title><text x="25" y="31" class="details">stable</text><text x="25" y="39" class="details">88.48%</text>
+    </a>
+
+<a href="https://www.nndc.bnl.gov/nudat3/getdataset.jsp?nucleus=101Ru" target="_blank" transform="translate(2434.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box stable"></rect><text x="25" y="22">
+            <tspan dy="-10" class="isotope">101</tspan>
+            <tspan dy="10" class="element">Ru</tspan>
+        </text>
+        <title>Ruthenium-101</title><text x="25" y="31" class="details">stable</text><text x="25" y="39" class="details">17%</text>
+    </a>
+
+<a href="https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=151Eu" target="_blank" transform="translate(2384.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box a"></rect>
+        <rect width="46" height="46" x="2" y="2" stroke="black" stroke-width="4" fill="none"></rect><text x="25" y="22">
+            <tspan dy="-10" class="isotope">151</tspan>
+            <tspan dy="10" class="element">Eu</tspan>
+        </text>
+        <title>Europium-151</title><text x="25" y="31" class="details">α</text><text x="25" y="39" class="details">47.8%</text><text x="25" y="47" class="details">≥ 1.7E+18 y</text>
+    </a>
+
+<a href="https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=100Mo" target="_blank" transform="translate(2334.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box doublebminus"></rect>
+        <rect width="46" height="46" x="2" y="2" stroke="black" stroke-width="4" fill="none"></rect><text x="25" y="22">
+            <tspan dy="-10" class="isotope">100</tspan>
+            <tspan dy="10" class="element">Mo</tspan>
+        </text>
+        <title>Molybdenum-100</title><text x="25" y="31" class="details">2β-</text><text x="25" y="39" class="details">9.63%</text><text x="25" y="47" class="details">1.00E+19 y</text>
+    </a>
+
+<a href="https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=88Y" target="_blank" transform="translate(2184.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box bplus"></rect><text x="25" y="22">
+            <tspan dy="-10" class="isotope">88</tspan>
+            <tspan dy="10" class="element">Y</tspan>
+        </text>
+        <title>Yttrium-88</title><text x="25" y="31" class="details">β+</text><text x="25" y="47" class="details">106.65 d</text>
+    </a>        
+
+<a href="https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=36Cl" target="_blank" transform="translate(2134.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box bminus"></rect><text x="25" y="22">
+            <tspan dy="-10" class="isotope">36</tspan>
+            <tspan dy="10" class="element">Cl</tspan>
+        </text>
+        <title>Chlorine-36</title><text x="25" y="31" class="details">β- (98.1%),</text><text x="25" y="39" class="details">β+ (1.9%)</text><text x="25" y="47" class="details">3.01E+5 y</text>
+    </a>
+
+<a href="https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=198Au" target="_blank" transform="translate(2084.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box bminus"></rect><text x="25" y="22">
+            <tspan dy="-10" class="isotope">198</tspan>
+            <tspan dy="10" class="element">Au</tspan>
+        </text>
+        <title>Gold-198</title><text x="25" y="31" class="details">β-</text><text x="25" y="47" class="details">2.69517 d</text>
+    </a>
+
+
+<a href="https://www.nndc.bnl.gov/nudat3/getdataset.jsp?nucleus=191Ir" target="_blank" transform="translate(2034.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box stable"></rect><text x="25" y="22">
+            <tspan dy="-10" class="isotope">191</tspan>
+            <tspan dy="10" class="element">Ir</tspan>
+        </text>
+        <title>Iridium-191</title><text x="25" y="31" class="details">stable</text><text x="25" y="39" class="details">37.3%</text>
+    </a>
+
+<a href="https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=238U" target="_blank"  transform="translate(1984.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0"  class="box a"></rect>
+        <rect width="46" height="46" x="2" y="2"  stroke="black" stroke-width="4" fill="none"></rect><text x="25" y="22">
+            <tspan dy="-10" class="isotope">238</tspan>
+            <tspan dy="10" class="element">Ո</tspan>
+        </text>
+        <title>Ոraanium-238</title><text x="25" y="31" class="details">α</text><text x="25" y="39" class="details">99.2745%</text><text x="25" y="47" class="details">4.468E+9 y</text>
+    </a>
+
+
+<a href="https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=74As" target="_blank" transform="translate(1834.1000000000001,5641)">
+        <path d="M0 50 L0 0 L50 0 Z" class="box bplus"></path>
+        <path d="M0 50 L50 50 L50 0 Z" class="box bminus"></path><text x="25" y="22">
+            <tspan dy="-10" class="isotope">74</tspan>
+            <tspan dy="10" class="element">As</tspan>
+        </text>
+        <title>Arsenic-74</title><text x="25" y="31" class="details">β+ (66%),</text><text x="25" y="39" class="details">β- (34%)</text><text x="25" y="47" class="details">17.77 d</text>
+    </a>
+
+<a href="https://www.nndc.bnl.gov/nudat3/getdataset.jsp?nucleus=94Zr" target="_blank" transform="translate(1784.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box stable"></rect><text x="25" y="22">
+            <tspan dy="-10" class="isotope">94</tspan>
+            <tspan dy="10" class="element">Zr</tspan>
+        </text>
+        <title>Zirconium-94</title><text x="25" y="31" class="details">stable</text><text x="25" y="39" class="details">17.38%</text>
+    </a>
+
+<a href="https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=154Dy" target="_blank" transform="translate(1734.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box a"></rect><text x="25" y="22">
+            <tspan dy="-10" class="isotope">154</tspan>
+            <tspan dy="10" class="element">Dy</tspan>
+        </text>
+        <title>Dysprosium-154</title><text x="25" y="31" class="details">α</text><text x="25" y="47" class="details">3.0E+6 y</text>
+    </a>
+
+<a xmlns="http://www.w3.org/2000/svg" href="https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=9Li" target="_blank" transform="translate(1684.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box bminus"/><text x="25" y="22">
+            <tspan dy="-10" class="isotope">9</tspan>
+            <tspan dy="10" class="element">Li</tspan>
+        </text>
+        <title>Lithium-9</title><text x="25" y="31" class="details">β-</text><text x="25" y="47" class="details">178.3 ms</text>
+    </a>
+
+
+<a href="https://www.nndc.bnl.gov/nudat3/getdataset.jsp?nucleus=3He" target="_blank" transform="translate(1634.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box stable"></rect><text x="25" y="22">
+            <tspan dy="-10" class="isotope">3</tspan>
+            <tspan dy="10" class="element">He</tspan>
+        </text>
+        <title>Helium-3</title><text x="25" y="31" class="details">stable</text><text x="25" y="39" class="details">0.00014%</text>
+    </a>
+
+
+<a href="https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=181W" target="_blank" transform="translate(1584.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box ec"></rect><text x="25" y="22">
+            <tspan dy="-10" class="isotope">181</tspan>
+            <tspan dy="10" class="element">W</tspan>
+        </text>
+        <title>Tungsten-181</title><text x="25" y="31" class="details">EC</text><text x="25" y="47" class="details">121.2 d</text>
+    </a>
+
+
+<a href="https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=266Db" target="_blank" transform="translate(1534.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box a"></rect><text x="25" y="22">
+            <tspan dy="-10" class="isotope">266</tspan>
+            <tspan dy="10" class="element">Db</tspan>
+        </text>
+        <title>Dubnium-266</title><text x="25" y="31" class="details">α,</text><text x="25" y="39" class="details">SF</text><text x="25" y="47" class="details"></text>
+    </a>
+
+
+
+<a xmlns="http://www.w3.org/2000/svg" href="https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=222Rn" target="_blank" transform="translate(1484.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box a"/><text x="25" y="22">
+            <tspan dy="-10" class="isotope">222</tspan>
+            <tspan dy="10" class="element">Rn</tspan>
+        </text>
+        <title>Radon-222</title><text x="25" y="31" class="details">α</text><text x="25" y="47" class="details">3.8235 d</text>
+    </a>
+
+<a xmlns="http://www.w3.org/2000/svg" href="https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=132Ba" target="_blank" transform="translate(1433.1000000000001,5641)">
+        <rect width="50" height="50" x="0" y="0" class="box doublebplus"/>
+        <rect width="46" height="46" x="2" y="2" stroke="black" stroke-width="4" fill="none"/><text x="25" y="22">
+            <tspan dy="-10" class="isotope">132</tspan>
+            <tspan dy="10" class="element">Ba</tspan>
+        </text>
+        <title>Barium-132</title><text x="25" y="31" class="details">2β+</text><text x="25" y="39" class="details">0.101%</text><text x="25" y="47" class="details">&gt; 3.0E+21 y</text>
+    </a>
+
+
+
+
+
+		<a xmlns="http://www.w3.org/2000/svg" href="https://github.com/barionleg/PC/wiki" target="_blank" transform="translate(-50,3091)">
         <rect width="200" height="200" x="0" y="0" class="box bar"/><text x="100" y="88">
             <tspan xmlns="http://www.w3.org/2000/svg" dy="10" class="direction">Z ⬆</tspan>
         </text>
         <title xmlns="http://www.w3.org/2000/svg">Z ⬆</title><text x="150" y="123" class="tixt">number of </text><text x="150" y="147" class="tixt"> protons </text>
     </a>
-		<a xmlns="http://www.w3.org/2000/svg" href="https://github.com/barionleg/PC/wiki/AidA_created_by_i_bardavelid3e" target="_blank" transform="translate(2912.1,5997)">
+		<a xmlns="http://www.w3.org/2000/svg" href="https://github.com/barionleg/PC/wiki" target="_blank" transform="translate(2912.1,5997)">
         <rect width="200" height="200" x="0" y="0" class="box bar"/><text x="100" y="88">
             <tspan xmlns="http://www.w3.org/2000/svg" dy="10" class="derection">N ⇝</tspan>
         </text>
         <title xmlns="http://www.w3.org/2000/svg">N ⇝</title><text x="150" y="123" class="tixt">number of </text><text x="150" y="147" class="tixt"> neutrons </text>
 
     </a>
+
+
+<a xmlns="http://www.w3.org/2000/svg" href="https://www.nndc.bnl.gov/nudat3/getdataset.jsp?nucleus=2H" target="_blank" transform="translate(56.1,5998)">
+        <rect width="50" height="50" x="0" y="0" class="box stable"/><text x="25" y="22">
+            <tspan dy="-10" class="isotope">2</tspan>
+            <tspan dy="10" class="element">H</tspan>
+        </text>
+        <title>Hydrogen-2</title><text x="25" y="31" class="details">stable</text><text x="25" y="39" class="details">0.015%</text>
+    </a>
+
 
 		<a xmlns="http://www.w3.org/2000/svg" href="https://github.com/barionleg/PC/wiki" target="_blank" transform="translate(6431.099999999999,6097)">
         <rect width="50" height="50" x="0" y="0" class="box blansche"/><text x="25" y="22">
@@ -148,13 +414,13 @@
         </text>
         <title xmlns="http://www.w3.org/2000/svg">50</title>
     </a>
-		<a xmlns="http://www.w3.org/2000/svg" href="https://github.com/barionleg/PC/wiki/AidA_created_by_i_bardavelid3e" target="_blank" transform="translate(-47,4624)">
+		<a xmlns="http://www.w3.org/2000/svg" href="https://github.com/barionleg/PC/wiki" target="_blank" transform="translate(-47,4624)">
         <rect width="50" height="50" x="0" y="0" class="box blansche"/><text x="25" y="22">
             <tspan xmlns="http://www.w3.org/2000/svg" dy="10" class="linenumber">28</tspan>
         </text>
         <title xmlns="http://www.w3.org/2000/svg">28</title>
     </a>
-		<a xmlns="http://www.w3.org/2000/svg" href="https://github.com/barionleg/PC/wiki/AidA_created_by_i_bardavelid3e" target="_blank" transform="translate(1433.1000000000001,6097)">
+		<a xmlns="http://www.w3.org/2000/svg" href="https://github.com/barionleg/PC/wiki" target="_blank" transform="translate(1433.1000000000001,6097)">
         <rect width="50" height="50" x="0" y="0" class="box blansche"/><text x="25" y="22">
             <tspan xmlns="http://www.w3.org/2000/svg" dy="10" class="linenumber">28</tspan>
         </text>
@@ -20041,6 +20307,20 @@
             <tspan dy="10" class="element">Og</tspan>
         </text>
         <title>Oganesson-295</title><text x="25" y="31" class="details">α</text><text x="25" y="47" class="details"></text>
+    </a>
+<a xmlns="http://www.w3.org/2000/svg" href="https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=296Og" target="_blank" transform="translate(9082.1,31)">
+        <rect width="50" height="50" x="0" y="0" class="box a"/><text x="25" y="22">
+            <tspan dy="-10" class="isotope">296</tspan>
+            <tspan dy="10" class="element">Og</tspan>
+        </text>
+        <title>Oganesson-296</title><text x="25" y="31" class="details">α</text><text x="25" y="47" class="details"/>
+    </a>
+<a xmlns="http://www.w3.org/2000/svg" href="https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=297Og" target="_blank" transform="translate(9133.1,31)">
+        <rect width="50" height="50" x="0" y="0" class="box sf"/><text x="25" y="22">
+            <tspan dy="-10" class="isotope">297</tspan>
+            <tspan dy="10" class="element">Og</tspan>
+        </text>
+        <title>Oganesson-297</title><text x="25" y="31" class="details">SF</text><text x="25" y="47" class="details"/>
     </a>
     <line class="magicNumber" x1="0" x2="9100" y1="5947" y2="5947"></line>
     <line class="magicNumber" x1="0" x2="9100" y1="5998" y2="5998"></line>
