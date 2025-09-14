@@ -50,4 +50,22 @@ rotate >
 
 https://stackoverflow.com/questions/56014003/rotate-actual-svg-path-90-degrees
 
+___
+___
+
+Online JANIS
+
+https://www.oecd-nea.org/janisweb/
+
+https://www.oecd-nea.org/janisweb/book/neutrons/Cu65/MT2/renderer/5439
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6e9838bc-b1c3-4d8d-af5d-0f3ebb643ba9" />
+
+e-manual: https://www.oecd-nea.org/janis/janis-4.0/documentation/janis-4.0_manual_rev1.pdf
+
+https://www.oecd-nea.org/jcms/pl_39910/janis
+
+<img width="1365" height="720" alt="image" src="https://github.com/user-attachments/assets/89e53bb9-48c7-4104-9ad9-7be905938843" />
+
+https://www.oecd-nea.org/jcms/pl_39963/janis-downloads
 
